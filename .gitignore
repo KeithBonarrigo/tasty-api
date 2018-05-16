@@ -1,4 +1,5 @@
-/new/__pycache
+/new/__pycache__
 /new/migrations
 /api/__pycache
 /api/migrations
+db.sqlite3
